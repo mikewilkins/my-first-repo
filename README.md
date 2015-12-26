@@ -1,3 +1,3 @@
 # My First Project
 
-This is a sample git repository containing some sample files.
+This is a sample git repository containing some sample files. I've editted this file.
